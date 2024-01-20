@@ -1,6 +1,8 @@
  #include<iostream>
  using namespace std;
- ////detecting a loop in a linked list 
+
+ //detecting a loop in a linked list 
+ 
 class Node
 {
     public:
