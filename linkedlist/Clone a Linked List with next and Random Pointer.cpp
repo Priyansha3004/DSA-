@@ -17,7 +17,6 @@ class Node {
 
 Node* cloneLinkedList(Node* head)
 {
-
 	unordered_map<Node*, Node*> mp;
 	Node *temp, *nhead;
 
@@ -82,4 +81,3 @@ int main()
 
 	return 0;
 }
-
